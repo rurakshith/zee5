@@ -1,0 +1,173 @@
+body{
+    background-color: black;
+}
+
+#carouselExampleFade{
+    position: relative;
+    left: 40px;
+}
+
+#demo{
+    height: 500px;
+    width: 100%;
+    background-image: url(https://akamaividz2.zee5.com/image/upload/w_1719,h_315,c_scale,f_webp,q_auto:eco/resources/0-6-4z5311140/homefeed_launcher_sticker/1312x312f0f3b262c0d7407f8ab773eeb3d4d60a.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 30px;
+}
+
+#image{
+    display: flex;
+    position: relative;
+    bottom: 100px;
+    border-radius: 400px;
+    /* justify-content: space-evenly; */
+    
+}
+
+h5{
+    color: white;
+    position: relative;
+    bottom: 100px;
+    left: 10px;
+}
+
+#Demo1{
+    position: relative;
+    left: 20px;
+    
+}
+
+#Demo2{
+    position: relative;
+    left: 40px;
+}
+
+#Demo3{
+    position: relative;
+    left: 60px;
+}
+
+#Demo4{
+    position: relative;
+    left: 80px;
+}
+
+#Demo5{
+    position: relative;
+    left: 100px;
+
+}
+
+#Demo8{
+    background-color: black;
+    outline: 2px groove white;
+    width: 400px;
+    height: 35px;
+    position: relative;
+    right: 30px;
+
+}
+
+#demo9{
+background-color: rgb(138, 43, 226);
+color: white;
+height: 35px;
+width: 80px;
+position: relative;
+right: 20px;
+border-radius: 5px;
+
+}
+#demo9:hover{
+background-color: #7a38bb;
+}
+
+#demo10{
+    position: relative;
+    right: 10px;
+    height: 35px;
+    width: 100px;
+    color: white;
+    
+}
+
+#demo11{
+    color: white;
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+
+}
+
+#image1{
+    display: flex;
+    position: relative;
+    bottom: 50px;
+    border-radius: 400px;
+    justify-content: space-evenly;
+}
+
+.top10Numbers{
+    background: linear-gradient(40deg,#a785ff 35%,#fff 55%);
+    background-image: linear-gradient(40deg, rgb(167, 133, 255) 35%, rgb(255, 255, 255) 55%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    /* background-repeat-x: initial;
+    background-repeat-y: initial; */
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    /* background-color: initial; */
+    color: rgba(21, 184, 234, 0.8);
+    font-family: NotoSansBold,sans-serif;
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 1em;
+    position: absolute;
+    left: 250px;
+    bottom: -700px;
+}
+
+
+
+
+.i1:hover{
+    transform:scale(1.1);
+    z-index: 1;
+    transition: 0.2s;
+    
+}
+
+#p1{
+position: relative;
+left: 80px;
+}
+
+#p2{
+    position: relative;
+    left: 90px;
+}
+#p3{
+    position: relative;
+    left: 100px;
+}
+#p4{
+    position: relative;
+    left: 110px;
+}
+#p5{
+    position: relative;
+    left: 120px;
+}
+#p6{
+    position: relative;
+    left: 130px;
+}
+
+.i2:hover{
+    transform:scale(1.1);
+    z-index: 1;
+    transition: 0.2s;
+}
